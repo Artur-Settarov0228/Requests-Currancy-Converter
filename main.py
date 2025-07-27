@@ -4,7 +4,7 @@ from datetime import datetime
 
 def asosiy():
     kurslar = kurslarni_olish()
-    print("🟢 Valyuta konvertori dasturi")
+    print(" Valyuta konvertori dasturi")
     print("1 - USD\n2 - EUR\n3 - UZS")
 
     try:
