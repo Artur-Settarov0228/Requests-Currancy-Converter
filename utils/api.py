@@ -17,4 +17,4 @@ def kurslarni_olish():
         return kurslar
 
     except Exception as e:
-        raise Exception("❌ API ishlamayapti yoki xatolik yuz berdi:\n" + str(e))
+        raise Exception(" API ishlamayapti yoki xatolik yuz berdi:\n" + str(e))
